@@ -1,0 +1,8 @@
+﻿  PrimeSearcher.cpp
+  Source.cpp
+  XmlFileParser.cpp
+e:\myfiles\mydata\testprojectjob\primenbrsearcher\primenbrsearcher\xmlfileparser.cpp(23): warning C4018: '<': signed/unsigned mismatch
+e:\myfiles\mydata\testprojectjob\primenbrsearcher\primenbrsearcher\xmlfileparser.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\myfiles\mydata\testprojectjob\primenbrsearcher\primenbrsearcher\xmlfileparser.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  PrimeNbrSearcher.vcxproj -> E:\MyFiles\MyData\TestProjectJob\PrimeNbrSearcher\Debug\PrimeNbrSearcher.exe

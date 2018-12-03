@@ -1,0 +1,4 @@
+﻿  PrimeSearcherTest.cpp
+PrimeSearcherTest.obj : error LNK2019: unresolved external symbol "public: __thiscall PrimeSearcher::PrimeSearcher(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0PrimeSearcher@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "private: virtual void __thiscall HelloTest_AssertsCorrectly_Test::TestBody(void)" (?TestBody@HelloTest_AssertsCorrectly_Test@@EAEXXZ)
+PrimeSearcherTest.obj : error LNK2019: unresolved external symbol "public: bool __thiscall PrimeSearcher::startPrimeSearch(void)" (?startPrimeSearch@PrimeSearcher@@QAE_NXZ) referenced in function "private: virtual void __thiscall HelloTest_AssertsCorrectly_Test::TestBody(void)" (?TestBody@HelloTest_AssertsCorrectly_Test@@EAEXXZ)
+E:\MyFiles\MyData\TestProjectJob\PrimeNbrSearcher\Debug\PrimeSearcherTest.exe : fatal error LNK1120: 2 unresolved externals
